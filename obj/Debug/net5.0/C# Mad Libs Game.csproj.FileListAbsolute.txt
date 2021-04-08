@@ -1,0 +1,16 @@
+C:\Users\Woodrow Kromar\Documents\Learning c#\C# Mad Libs Game\bin\Debug\net5.0\C# Mad Libs Game.exe
+C:\Users\Woodrow Kromar\Documents\Learning c#\C# Mad Libs Game\bin\Debug\net5.0\C# Mad Libs Game.deps.json
+C:\Users\Woodrow Kromar\Documents\Learning c#\C# Mad Libs Game\bin\Debug\net5.0\C# Mad Libs Game.runtimeconfig.json
+C:\Users\Woodrow Kromar\Documents\Learning c#\C# Mad Libs Game\bin\Debug\net5.0\C# Mad Libs Game.runtimeconfig.dev.json
+C:\Users\Woodrow Kromar\Documents\Learning c#\C# Mad Libs Game\bin\Debug\net5.0\C# Mad Libs Game.dll
+C:\Users\Woodrow Kromar\Documents\Learning c#\C# Mad Libs Game\bin\Debug\net5.0\ref\C# Mad Libs Game.dll
+C:\Users\Woodrow Kromar\Documents\Learning c#\C# Mad Libs Game\bin\Debug\net5.0\C# Mad Libs Game.pdb
+C:\Users\Woodrow Kromar\Documents\Learning c#\C# Mad Libs Game\obj\Debug\net5.0\C# Mad Libs Game.csprojAssemblyReference.cache
+C:\Users\Woodrow Kromar\Documents\Learning c#\C# Mad Libs Game\obj\Debug\net5.0\C# Mad Libs Game.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Woodrow Kromar\Documents\Learning c#\C# Mad Libs Game\obj\Debug\net5.0\C# Mad Libs Game.AssemblyInfoInputs.cache
+C:\Users\Woodrow Kromar\Documents\Learning c#\C# Mad Libs Game\obj\Debug\net5.0\C# Mad Libs Game.AssemblyInfo.cs
+C:\Users\Woodrow Kromar\Documents\Learning c#\C# Mad Libs Game\obj\Debug\net5.0\C# Mad Libs Game.csproj.CoreCompileInputs.cache
+C:\Users\Woodrow Kromar\Documents\Learning c#\C# Mad Libs Game\obj\Debug\net5.0\C# Mad Libs Game.dll
+C:\Users\Woodrow Kromar\Documents\Learning c#\C# Mad Libs Game\obj\Debug\net5.0\ref\C# Mad Libs Game.dll
+C:\Users\Woodrow Kromar\Documents\Learning c#\C# Mad Libs Game\obj\Debug\net5.0\C# Mad Libs Game.pdb
+C:\Users\Woodrow Kromar\Documents\Learning c#\C# Mad Libs Game\obj\Debug\net5.0\C# Mad Libs Game.genruntimeconfig.cache
